@@ -1,0 +1,2 @@
+# unidad_1_introduccion_programacion_IA
+Repositorio correspondiente a la tarea de la primera unidad del módulo de Programación de Inteligencia Artificial del curso de especialización en Inteligencia Artificial y Big Data de CIDEAD.
